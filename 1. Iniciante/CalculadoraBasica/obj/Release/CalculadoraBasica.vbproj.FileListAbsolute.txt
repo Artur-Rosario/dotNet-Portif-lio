@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\.NET\CalculadoraBasica\bin\Release\CalculadoraBasica.exe.config
+C:\Users\Usuario\source\repos\.NET\CalculadoraBasica\bin\Release\CalculadoraBasica.exe
+C:\Users\Usuario\source\repos\.NET\CalculadoraBasica\bin\Release\CalculadoraBasica.pdb
+C:\Users\Usuario\source\repos\.NET\CalculadoraBasica\bin\Release\CalculadoraBasica.xml
+C:\Users\Usuario\source\repos\.NET\CalculadoraBasica\obj\Release\CalculadoraBasica.Form1.resources
+C:\Users\Usuario\source\repos\.NET\CalculadoraBasica\obj\Release\CalculadoraBasica.Resources.resources
+C:\Users\Usuario\source\repos\.NET\CalculadoraBasica\obj\Release\CalculadoraBasica.vbproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\.NET\CalculadoraBasica\obj\Release\CalculadoraBasica.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\.NET\CalculadoraBasica\obj\Release\CalculadoraBasica.exe
+C:\Users\Usuario\source\repos\.NET\CalculadoraBasica\obj\Release\CalculadoraBasica.xml
+C:\Users\Usuario\source\repos\.NET\CalculadoraBasica\obj\Release\CalculadoraBasica.pdb
